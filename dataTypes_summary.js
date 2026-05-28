@@ -1,5 +1,5 @@
 /*
-Primitive : call by Value NOT reference
+Primitive : call by Value NOT reference -> stores in Stack memory
  It is of 7 types
     1. String
     2. Number
@@ -45,7 +45,7 @@ const anotherId = Symbol("123")
 
 
 /*
-Non-Primitive (reference)
+Non-Primitive (reference) -> stores in heap Memory
  Basically of 3 Types
     1. Array
     2. Objects
